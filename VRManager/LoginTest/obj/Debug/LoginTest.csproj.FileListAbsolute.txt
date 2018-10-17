@@ -1,0 +1,38 @@
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.exe.config
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.exe
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\bin\Debug\LoginTest.pdb
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csprojAssemblyReference.cache
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.Properties.Resources.resources
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.GenerateResource.cache
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.exe
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\kccistc\source\repos\LoginTest\LoginTest\obj\Debug\LoginTest.Welcome.resources
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\bin\Debug\LoginTest.exe.config
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\bin\Debug\LoginTest.exe
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\bin\Debug\LoginTest.pdb
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.csprojAssemblyReference.cache
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.Welcome.resources
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.Properties.Resources.resources
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.csproj.GenerateResource.cache
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.exe
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\kccistc\Documents\카카오톡 받은 파일\LOGINT~2\LoginTest\obj\Debug\LoginTest.Register.resources
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\LoginTest.exe.config
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\LoginTest.exe
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\LoginTest.pdb
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.Welcome.resources
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.Register.resources
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.Properties.Resources.resources
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.exe
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\EntityFramework.dll
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\EntityFramework.xml
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\kccistc\Desktop\씨샵 프로젝트\LOGINT~2\LoginTest\obj\Debug\LoginTest.csproj.CopyComplete
